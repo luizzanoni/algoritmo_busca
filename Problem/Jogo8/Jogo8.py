@@ -1,8 +1,8 @@
 import random
 
-from Search_Algorithms.Problem.Jogo8.Complexidade import Complexidade
-from Search_Algorithms.Problem.Jogo8.Acao import Acao
-from Search_Algorithms.Problem.Jogo8.Estado import Estado
+from Problem.Jogo8.Complexidade import Complexidade
+from Problem.Jogo8.Acao import Acao
+from Problem.Jogo8.Estado import Estado
 
 
 class Jogo8:

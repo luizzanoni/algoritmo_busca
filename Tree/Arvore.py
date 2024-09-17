@@ -1,6 +1,6 @@
-from Search_Algorithms.Heuristics.Heuristica import Heuristic
-from Search_Algorithms.Problem.Jogo8.Estado import Estado
-from Search_Algorithms.Problem.Jogo8.Acao import Acao
+from Heuristics.Heuristica import Heuristic
+from Problem.Jogo8.Estado import Estado
+from Problem.Jogo8.Acao import Acao
 
 
 class Arvore:

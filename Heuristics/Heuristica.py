@@ -1,6 +1,6 @@
 from abc import abstractmethod
 
-from Search_Algorithms.Problem.Jogo8.Estado import Estado
+from Problem.Jogo8.Estado import Estado
 
 
 class Heuristic:

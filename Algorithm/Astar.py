@@ -1,10 +1,10 @@
 import heapq
 import time
 
-from Search_Algorithms.Algorithm.Algorithm import Algorithm
-from Search_Algorithms.Heuristics.Heuristica import Heuristic
-from Search_Algorithms.Problem.Jogo8.Estado import Estado
-from Search_Algorithms.Tree.Arvore import Arvore
+from Algorithm.Algorithm import Algorithm
+from Heuristics.Heuristica import Heuristic
+from Problem.Jogo8.Estado import Estado
+from Tree.Arvore import Arvore
 
 
 class Astar(Algorithm):

@@ -1,9 +1,9 @@
 from abc import abstractmethod
 
-from Search_Algorithms.Problem.Jogo8.Acao import Acao
-from Search_Algorithms.Problem.Jogo8.Estado import Estado
-from Search_Algorithms.Problem.Jogo8.Jogo8 import Jogo8
-from Search_Algorithms.Tree.Arvore import Arvore
+from Problem.Jogo8.Acao import Acao
+from Problem.Jogo8.Estado import Estado
+from Problem.Jogo8.Jogo8 import Jogo8
+from Tree.Arvore import Arvore
 
 
 class Algorithm:

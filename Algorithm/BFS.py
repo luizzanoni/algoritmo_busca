@@ -1,8 +1,8 @@
 import time
 
-from Search_Algorithms.Algorithm.Algorithm import Algorithm
-from Search_Algorithms.Problem.Jogo8.Estado import Estado
-from Search_Algorithms.Tree.Arvore import Arvore
+from Algorithm.Algorithm import Algorithm
+from Problem.Jogo8.Estado import Estado
+from Tree.Arvore import Arvore
 
 
 class BFS(Algorithm):
